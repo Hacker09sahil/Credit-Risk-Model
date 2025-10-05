@@ -11,3 +11,17 @@ End-to-end Credit Risk Modeling project for FinTech applications — includes da
 ---
 
 ## 📁 Repository Structure
+credit-risk-modeling/
+├── data/ # (not tracked) store raw/processed CSVs here
+├── notebooks/ # Jupyter notebooks (EDA, feature engineering, training)
+├── src/
+│ ├── data_preprocessing.py
+│ ├── features.py
+│ ├── train_model.py
+│ └── predict.py
+├── models/
+│ └── xgb_credit_model.pkl # (optional - use Git LFS or cloud storage for large files)
+├── credit_risk_app.py # Streamlit app for local demo
+├── requirements.txt
+├── .gitignore
+└── README.md
