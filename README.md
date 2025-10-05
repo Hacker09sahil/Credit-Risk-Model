@@ -1,5 +1,4 @@
-# Create README.md
-echo "# Credit Risk Modeling
+# Credit Risk Modeling
 End-to-end Credit Risk Modeling project for FinTech applications — includes data preprocessing, feature engineering, model training (XGBoost), evaluation, and insights for predicting loan default probability.
 
 ## 🚀 Project Overview
